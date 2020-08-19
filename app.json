@@ -1,0 +1,12 @@
+{
+  "name": "dog-walk",
+  "displayName": "dog-walk",
+  "expo": {
+    "name": "dog-walk",
+    "slug": "dog-walk",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
